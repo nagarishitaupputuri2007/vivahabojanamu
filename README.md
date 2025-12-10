@@ -1,7 +1,7 @@
 # Vivahabojanmbu Restaurant Website
 
 ## Deployment Links
-- GitHub Repository: ()
+- GitHub Repository: (https://github.com/nagarishitaupputuri2007/vivahabojanamu.git)
 - Live Deployment (Vercel/Netlify): ()
 
 ## How to Run
